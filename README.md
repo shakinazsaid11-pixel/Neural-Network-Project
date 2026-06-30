@@ -35,7 +35,9 @@ A blood cell image dataset with **8 classes**, split into train / validation / t
 
 ## 🚀 How to Run
 
-1. Place `archive.zip` (the blood cells dataset) in the same folder as the notebook
+1. Place `archive.zip` (the blood cells dataset) in this link:https://www.kaggle.
+com/datasets/uncles
+amulus/blood-cellsimage-dataset/data
 2. Install dependencies: `pip install torch torchvision scikit-learn matplotlib pillow pandas`
 3. Run all cells top to bottom
 
