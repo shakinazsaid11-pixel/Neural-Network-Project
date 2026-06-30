@@ -43,6 +43,3 @@ A blood cell image dataset with **8 classes**, split into train / validation / t
 
 The CNN is expected to outperform the FFNN in accuracy and macro F1 because it learns local visual patterns like cell edges and textures, while the FFNN discards spatial information by flattening the image.
 
----
-
-Feel free to swap in your actual numbers in the Results section once you have them. Want me to format this as a `README.md` file you can download?
